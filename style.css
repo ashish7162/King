@@ -13,6 +13,7 @@
 }
 nav{
 	display: flex;
+	position: fixed;
 	align-items: center;
 	justify-content: space-between;
 	padding-top: 45px;
