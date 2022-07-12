@@ -14,14 +14,14 @@
 nav{
 	
   	background-color: #333;
-  	width: 182vh;
+  	width: 100vw;
 	display: flex;
 	position: fixed;
 	align-items: center;
 	justify-content: space-between;
 	padding-top: 40px;
-	padding-left: 8%;
-	padding-right: 12%;
+	padding-left: 14%;
+	padding-right: 14%;
 }
 .logo{
 	color: white;
